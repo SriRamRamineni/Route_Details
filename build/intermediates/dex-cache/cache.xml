@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-61b8eb709669ee919a09ce3c103d2733aaec9c88.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-5effdf813d43a0ae583cca3f0810ea2b026ba176.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-de8cec8b1d7cb7473b85fee225c6b0de2ca3dc5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-06d4d50133cf71f395fba076fbbd4c6e560e8c46.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-9be8740e9aa5f243190f2289a47c43c7822159ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-1a17ef07a542d41c8e4ccd5194580f45ed0c3fc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-1f50d46aec43d33d9b441c9a0c27f9b139b63606.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-b876d8828b93bbbc3f7beb0b3f695f483c973937.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-1c6482356b9029832af0466662ad64956c6e9a42.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-791b3b468ccb1757d1cf3c93edfa72f880ec9af3.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-b3d8ea1ed4c0ce14402e9951a9bca0af210d9837.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-18b1277c51bcc68d73af0395e4a2fda119ed9e36.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-6a879b5a55dd578776937496733c82f638953b30.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-9304dcfbb4ef8bdd2230b078d3d5772bed032fe5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-e170c5deb6d97e2334806dc94336780f8cafac91.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-c432ce926c4b517d0326f1c4f8a781fc5c2d43ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-b35da213fd0e5af46339c3721480e4f342aba75f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-3bdedcb30d1c7b0e29c403df28255ed031b340b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-583eeff3ec47416f2d53a234a66fa5257e317706.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-e0649dcaf179c2b293a98d034a313993c1696f87.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-5dda808712f480fd345667c3952953dfcc6b4848.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-7b0ac1531e63f7016c2e88bd4d0bdf32b4c9268c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\sriram\AndroidStudioProjects\Route_Details\app\build\intermediates\pre-dexed\debug\classes-e9d8c4e61bf5756d56573c26b5dcc6c83e1bfcc9.jar" />
+    </item>
+
+</items>
